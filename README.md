@@ -7,3 +7,5 @@ Necessário instalar a seguinte livraria no python.
 ```
 pip3 install openai
 ```
+
+Após isso você pode usar executando o arquivo __init__.py
